@@ -1,0 +1,34 @@
+.textarea {
+    display:inline;
+    width: 100%;
+    border: 0.1 solid black;
+    height: 700px;
+    padding: 0;
+    overflow: auto;
+    font-size: 20px;
+    resize: none;
+}
+.divTextarea {
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.btnSave {
+    margin-top: 20px;
+    font-size: 19px;
+    border-radius: 8px;
+    border: 0.5px solid black;
+
+}
+.btnSave:hover {
+    background-color: azure;
+    transform: scale(1.3);
+}
+.info {
+    text-align: center;
+}
+html {
+    font-family: Arial;
+    background-color: rgb(204, 204, 204);
+}
