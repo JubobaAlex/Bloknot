@@ -1,8 +1,9 @@
 .textarea {
     display:inline;
     width: 100%;
+    min-width: 100%;
     border: 0.1 solid black;
-    height: 700px;
+    height: 600px;
     padding: 0;
     overflow: auto;
     font-size: 20px;
